@@ -52,9 +52,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.ServiceFabric.Diagnostics.Internal": {
+              "target": "Package",
+              "version": "[7.1.2493, )"
+            },
             "Microsoft.ServiceFabric.Services": {
               "target": "Package",
-              "version": "[7.1.2175, )"
+              "version": "[7.1.2493, )"
             }
           },
           "imports": [

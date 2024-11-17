@@ -56,8 +56,10 @@ namespace ClientApi
                         {
                         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
                         };
+                        
                         app.MapGet("/weatherforecast", () =>
                         {
+                            
                         var forecast = Enumerable.Range(1, 5).Select(index =>
                         new WeatherForecast
                         (
@@ -67,7 +69,9 @@ namespace ClientApi
                         ))
                         .ToArray();
                         return forecast;
-                        })
+                        }
+                        
+                        )
                         .WithName("GetWeatherForecast")
                         .WithOpenApi();
                         
@@ -75,6 +79,20 @@ namespace ClientApi
 
                     }))
             };
+        }
+    }
+
+    internal class WeatherForecast
+    {
+        private DateOnly dateOnly;
+        private int v1;
+        private string v2;
+
+        public WeatherForecast(DateOnly dateOnly, int v1, string v2)
+        {
+            this.dateOnly = dateOnly;
+            this.v1 = v1;
+            this.v2 = v2;
         }
     }
 }

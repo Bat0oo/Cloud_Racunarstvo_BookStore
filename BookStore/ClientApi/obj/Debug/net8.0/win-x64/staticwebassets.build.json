@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hnBtIQ0j+50LQntJwlqln7pkwH6EFMPx75XfLRIcAYc=",
+  "Source": "ClientApi",
+  "BasePath": "_content/ClientApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -100,12 +100,12 @@
           }
         }
       },
-      "Microsoft.ServiceFabric.Data/7.1.2175": {
+      "Microsoft.ServiceFabric.Data/7.1.2493": {
         "type": "package",
         "dependencies": {
-          "Microsoft.ServiceFabric": "[10.1.2175]",
-          "Microsoft.ServiceFabric.Data.Extensions": "[7.1.2175]",
-          "Microsoft.ServiceFabric.Data.Interfaces": "[7.1.2175]"
+          "Microsoft.ServiceFabric": "[10.1.2493]",
+          "Microsoft.ServiceFabric.Data.Extensions": "[7.1.2493]",
+          "Microsoft.ServiceFabric.Data.Interfaces": "[7.1.2493]"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll": {}
@@ -124,11 +124,11 @@
           }
         }
       },
-      "Microsoft.ServiceFabric.Data.Extensions/7.1.2175": {
+      "Microsoft.ServiceFabric.Data.Extensions/7.1.2493": {
         "type": "package",
         "dependencies": {
-          "Microsoft.ServiceFabric": "10.1.2175",
-          "Microsoft.ServiceFabric.Data.Interfaces": "[7.1.2175]"
+          "Microsoft.ServiceFabric": "10.1.2493",
+          "Microsoft.ServiceFabric.Data.Interfaces": "[7.1.2493]"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll": {},
@@ -157,10 +157,10 @@
           }
         }
       },
-      "Microsoft.ServiceFabric.Data.Interfaces/7.1.2175": {
+      "Microsoft.ServiceFabric.Data.Interfaces/7.1.2493": {
         "type": "package",
         "dependencies": {
-          "Microsoft.ServiceFabric": "[10.1.2175]"
+          "Microsoft.ServiceFabric": "[10.1.2493]"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll": {}
@@ -249,11 +249,11 @@
           }
         }
       },
-      "Microsoft.ServiceFabric.Services/7.1.2175": {
+      "Microsoft.ServiceFabric.Services/7.1.2493": {
         "type": "package",
         "dependencies": {
-          "Microsoft.ServiceFabric.Data": "[7.1.2175]",
-          "Microsoft.ServiceFabric.Diagnostics.Internal": "[7.1.2175]"
+          "Microsoft.ServiceFabric.Data": "[7.1.2493]",
+          "Microsoft.ServiceFabric.Diagnostics.Internal": "[7.1.2493]"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.ServiceFabric.Services.dll": {
@@ -332,12 +332,12 @@
           "runtimes/win/lib/netstandard2.0/System.Fabric.dll": {}
         }
       },
-      "Microsoft.ServiceFabric.Data/7.1.2175": {
+      "Microsoft.ServiceFabric.Data/7.1.2493": {
         "type": "package",
         "dependencies": {
-          "Microsoft.ServiceFabric": "[10.1.2175]",
-          "Microsoft.ServiceFabric.Data.Extensions": "[7.1.2175]",
-          "Microsoft.ServiceFabric.Data.Interfaces": "[7.1.2175]"
+          "Microsoft.ServiceFabric": "[10.1.2493]",
+          "Microsoft.ServiceFabric.Data.Extensions": "[7.1.2493]",
+          "Microsoft.ServiceFabric.Data.Interfaces": "[7.1.2493]"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll": {}
@@ -346,11 +346,11 @@
           "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll": {}
         }
       },
-      "Microsoft.ServiceFabric.Data.Extensions/7.1.2175": {
+      "Microsoft.ServiceFabric.Data.Extensions/7.1.2493": {
         "type": "package",
         "dependencies": {
-          "Microsoft.ServiceFabric": "10.1.2175",
-          "Microsoft.ServiceFabric.Data.Interfaces": "[7.1.2175]"
+          "Microsoft.ServiceFabric": "10.1.2493",
+          "Microsoft.ServiceFabric.Data.Interfaces": "[7.1.2493]"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll": {},
@@ -361,10 +361,10 @@
           "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll": {}
         }
       },
-      "Microsoft.ServiceFabric.Data.Interfaces/7.1.2175": {
+      "Microsoft.ServiceFabric.Data.Interfaces/7.1.2493": {
         "type": "package",
         "dependencies": {
-          "Microsoft.ServiceFabric": "[10.1.2175]"
+          "Microsoft.ServiceFabric": "[10.1.2493]"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll": {}
@@ -399,11 +399,11 @@
           "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.FabricTransport.dll": {}
         }
       },
-      "Microsoft.ServiceFabric.Services/7.1.2175": {
+      "Microsoft.ServiceFabric.Services/7.1.2493": {
         "type": "package",
         "dependencies": {
-          "Microsoft.ServiceFabric.Data": "[7.1.2175]",
-          "Microsoft.ServiceFabric.Diagnostics.Internal": "[7.1.2175]"
+          "Microsoft.ServiceFabric.Data": "[7.1.2493]",
+          "Microsoft.ServiceFabric.Diagnostics.Internal": "[7.1.2493]"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.ServiceFabric.Services.dll": {
@@ -618,10 +618,10 @@
         "runtimes/win/lib/netstandard2.0/System.Fabric.dll"
       ]
     },
-    "Microsoft.ServiceFabric.Data/7.1.2175": {
-      "sha512": "fRfUQl1/FCaXwB0tDbkI3iqzKYfufhSs5fO+JWWeMPqCCqMz2iavqaM5EKn8SjToicb4dIGcXR2CgPo2ABmTJw==",
+    "Microsoft.ServiceFabric.Data/7.1.2493": {
+      "sha512": "sdiHSMla95N+GdbqOcV0aIP4pcVEATwMzjNT/g0rfesLVn68d6wGt5UHRYo1ZFJkeEW0MQDSkQlpcmJQXi5MKg==",
       "type": "package",
-      "path": "microsoft.servicefabric.data/7.1.2175",
+      "path": "microsoft.servicefabric.data/7.1.2493",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -644,7 +644,7 @@
         "lib/net472/Microsoft.ServiceFabric.Data.dll",
         "lib/net472/Microsoft.ServiceFabric.Data.xml",
         "lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll",
-        "microsoft.servicefabric.data.7.1.2175.nupkg.sha512",
+        "microsoft.servicefabric.data.7.1.2493.nupkg.sha512",
         "microsoft.servicefabric.data.nuspec",
         "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll",
         "runtimes/win/lib/net461/Microsoft.ServiceFabric.Data.dll",
@@ -655,10 +655,10 @@
         "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll"
       ]
     },
-    "Microsoft.ServiceFabric.Data.Extensions/7.1.2175": {
-      "sha512": "QnsNNozQMhFeHmShqbFgilkS7KpsXvJ6vlrW7D1EdQ1loAsYs1ZLdg3CjOfvKBWMM4m1Ccj0UKWbuLs82xhAUQ==",
+    "Microsoft.ServiceFabric.Data.Extensions/7.1.2493": {
+      "sha512": "XR1zqnemUgk102oOwKtm0Ra/kvOhUKc1T7BHlYR1Ka+NxonuCvz/L4IqXtURvAKp11xfHS6K+gZvjx0OkSYvOQ==",
       "type": "package",
-      "path": "microsoft.servicefabric.data.extensions/7.1.2175",
+      "path": "microsoft.servicefabric.data.extensions/7.1.2493",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -682,7 +682,7 @@
         "lib/net472/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
         "lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll",
         "lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
-        "microsoft.servicefabric.data.extensions.7.1.2175.nupkg.sha512",
+        "microsoft.servicefabric.data.extensions.7.1.2493.nupkg.sha512",
         "microsoft.servicefabric.data.extensions.nuspec",
         "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll",
         "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll",
@@ -700,10 +700,10 @@
         "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll"
       ]
     },
-    "Microsoft.ServiceFabric.Data.Interfaces/7.1.2175": {
-      "sha512": "+2ZrwyyWtDxfpsfo6JG71Joz4MAmRldWWiiYOlTaKhFu3t/nf98byH1S4+/JNQEUiVXkzCu9s+R6TLGg30htIg==",
+    "Microsoft.ServiceFabric.Data.Interfaces/7.1.2493": {
+      "sha512": "cM+qsI1XJCZ6+BAxc8TWbPKZg7hMmZtlOQXR1HxSE8mYNcnqDxPXYdPMBiM/3MMc6vtSbnUQHlwbhARNvzwcUw==",
       "type": "package",
-      "path": "microsoft.servicefabric.data.interfaces/7.1.2175",
+      "path": "microsoft.servicefabric.data.interfaces/7.1.2493",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -726,7 +726,7 @@
         "lib/net472/Microsoft.ServiceFabric.Data.Interfaces.dll",
         "lib/net472/Microsoft.ServiceFabric.Data.Interfaces.xml",
         "lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll",
-        "microsoft.servicefabric.data.interfaces.7.1.2175.nupkg.sha512",
+        "microsoft.servicefabric.data.interfaces.7.1.2493.nupkg.sha512",
         "microsoft.servicefabric.data.interfaces.nuspec",
         "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll",
         "runtimes/win/lib/net461/Microsoft.ServiceFabric.Data.Interfaces.dll",
@@ -841,10 +841,10 @@
         "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.FabricTransport.dll"
       ]
     },
-    "Microsoft.ServiceFabric.Services/7.1.2175": {
-      "sha512": "YwJKiMsH2lMfh6pwmuOzs1clQfp0VY544f6Ws1k3wfIv22Pq8oQcYP02Xa+cmgxJqMnJ8yYnn0DU1ptL7SslYA==",
+    "Microsoft.ServiceFabric.Services/7.1.2493": {
+      "sha512": "P5xtRJOvf1h7Q4RtxdUuk036/clzJOSdLc1tPSPw/sep+CR6aU0ikMcgmSwxP27mpG6cLDrnJPw7y3S9NNSIhw==",
       "type": "package",
-      "path": "microsoft.servicefabric.services/7.1.2175",
+      "path": "microsoft.servicefabric.services/7.1.2493",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -868,7 +868,7 @@
         "lib/net472/Microsoft.ServiceFabric.Services.xml",
         "lib/netstandard2.0/Microsoft.ServiceFabric.Services.dll",
         "lib/netstandard2.0/Microsoft.ServiceFabric.Services.xml",
-        "microsoft.servicefabric.services.7.1.2175.nupkg.sha512",
+        "microsoft.servicefabric.services.7.1.2493.nupkg.sha512",
         "microsoft.servicefabric.services.nuspec",
         "runtimes/win/lib/net461/Microsoft.ServiceFabric.Services.dll",
         "runtimes/win/lib/net462/Microsoft.ServiceFabric.Services.dll",
@@ -943,7 +943,8 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Common >= 1.0.0",
-      "Microsoft.ServiceFabric.Services >= 7.1.2175"
+      "Microsoft.ServiceFabric.Diagnostics.Internal >= 7.1.2493",
+      "Microsoft.ServiceFabric.Services >= 7.1.2493"
     ]
   },
   "packageFolders": {
@@ -997,9 +998,13 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Microsoft.ServiceFabric.Diagnostics.Internal": {
+            "target": "Package",
+            "version": "[7.1.2493, )"
+          },
           "Microsoft.ServiceFabric.Services": {
             "target": "Package",
-            "version": "[7.1.2175, )"
+            "version": "[7.1.2493, )"
           }
         },
         "imports": [
@@ -1040,16 +1045,5 @@
         "#import": []
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1107",
-      "level": "Error",
-      "message": "Version conflict detected for Microsoft.ServiceFabric.Diagnostics.Internal. Install/reference Microsoft.ServiceFabric.Diagnostics.Internal 7.1.2493 directly to project BankService to resolve this issue. \r\n BankService -> Common -> Microsoft.ServiceFabric.Services.Remoting 7.1.2493 -> Microsoft.ServiceFabric.Diagnostics.Internal (= 7.1.2493) \r\n BankService -> Microsoft.ServiceFabric.Services 7.1.2175 -> Microsoft.ServiceFabric.Diagnostics.Internal (= 7.1.2175).",
-      "libraryId": "Microsoft.ServiceFabric.Diagnostics.Internal",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }
