@@ -197,4 +197,9 @@ C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\BookStore\pkg\
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\BookStore\pkg\Debug\BankServicePkg\Code\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\BookStore\pkg\Debug\BankServicePkg\Code\Microsoft.ServiceFabric.Data.Interfaces.dll
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\BookStore\pkg\Debug\BankServicePkg\Code\Microsoft.ServiceFabric.Diagnostics.dll
+C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\BookStore\pkg\Debug\BankServicePkg\Code\Microsoft.ServiceFabric.FabricTransport.V2.dll
+C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\BookStore\pkg\Debug\BankServicePkg\Code\Microsoft.ServiceFabric.FabricTransport.dll
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\BookStore\pkg\Debug\BankServicePkg\Code\Microsoft.ServiceFabric.Services.dll
+C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\BookStore\pkg\Debug\BankServicePkg\Code\Microsoft.ServiceFabric.Services.Remoting.dll
+C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\BookStore\pkg\Debug\BankServicePkg\Code\Common.dll
+C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\BookStore\pkg\Debug\BankServicePkg\Code\Common.pdb

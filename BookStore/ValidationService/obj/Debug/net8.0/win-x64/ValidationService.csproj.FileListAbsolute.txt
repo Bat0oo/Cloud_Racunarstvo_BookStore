@@ -15,7 +15,10 @@ C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationServ
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Microsoft.ServiceFabric.Data.Interfaces.dll
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Microsoft.ServiceFabric.Diagnostics.dll
+C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Microsoft.ServiceFabric.FabricTransport.V2.dll
+C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Microsoft.ServiceFabric.FabricTransport.dll
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Microsoft.ServiceFabric.Services.dll
+C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Microsoft.ServiceFabric.Services.Remoting.dll
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Microsoft.CSharp.dll
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Microsoft.VisualBasic.Core.dll
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Microsoft.VisualBasic.dll
@@ -198,6 +201,8 @@ C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationServ
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\mscordbi.dll
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\mscorrc.dll
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\msquic.dll
+C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Common.dll
+C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Common.pdb
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\obj\Debug\net8.0\win-x64\ValidationService.csproj.AssemblyReference.cache
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\obj\Debug\net8.0\win-x64\ValidationService.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\obj\Debug\net8.0\win-x64\ValidationService.AssemblyInfoInputs.cache
@@ -210,8 +215,3 @@ C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationServ
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\obj\Debug\net8.0\win-x64\ValidationService.pdb
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\obj\Debug\net8.0\win-x64\ValidationService.genruntimeconfig.cache
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\obj\Debug\net8.0\win-x64\ref\ValidationService.dll
-C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Microsoft.ServiceFabric.FabricTransport.V2.dll
-C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Microsoft.ServiceFabric.FabricTransport.dll
-C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Microsoft.ServiceFabric.Services.Remoting.dll
-C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Common.dll
-C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Common.pdb

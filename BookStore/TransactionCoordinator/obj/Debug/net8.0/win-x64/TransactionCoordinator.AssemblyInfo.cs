@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TransactionCoordinator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebeb4b50c442657ea37758ad46063f47f959a469")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24d4c73eb3deacea3454b77e3d5d160e6c2070c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TransactionCoordinator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TransactionCoordinator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
