@@ -210,3 +210,8 @@ C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationServ
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\obj\Debug\net8.0\win-x64\ValidationService.pdb
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\obj\Debug\net8.0\win-x64\ValidationService.genruntimeconfig.cache
 C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\obj\Debug\net8.0\win-x64\ref\ValidationService.dll
+C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Microsoft.ServiceFabric.FabricTransport.V2.dll
+C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Microsoft.ServiceFabric.FabricTransport.dll
+C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Microsoft.ServiceFabric.Services.Remoting.dll
+C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Common.dll
+C:\Users\Win10\source\repos\Cloud_Racunarstvo_BookStore\BookStore\ValidationService\bin\Debug\net8.0\win-x64\Common.pdb

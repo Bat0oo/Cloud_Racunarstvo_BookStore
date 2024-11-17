@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Win10\\source\\repos\\Cloud_Racunarstvo_BookStore\\BookStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48155B2B-5577-4CA6-AC0F-7194DFC5A644}|ClientApi\\ClientApi.csproj|c:\\users\\win10\\source\\repos\\cloud_racunarstvo_bookstore\\bookstore\\clientapi\\clientapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48155B2B-5577-4CA6-AC0F-7194DFC5A644}|ClientApi\\ClientApi.csproj|solutionrelative:clientapi\\clientapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D80D3B1D-4982-4A20-A63E-31759B035BE2}|TransactionCoordinator\\TransactionCoordinator.csproj|c:\\users\\win10\\source\\repos\\cloud_racunarstvo_bookstore\\bookstore\\transactioncoordinator\\transactioncoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80D3B1D-4982-4A20-A63E-31759B035BE2}|TransactionCoordinator\\TransactionCoordinator.csproj|solutionrelative:transactioncoordinator\\transactioncoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37F9282F-8CEE-4533-92B6-E4A49F6D776A}|BookStoreService\\BookStoreService.csproj|c:\\users\\win10\\source\\repos\\cloud_racunarstvo_bookstore\\bookstore\\bookstoreservice\\bookstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37F9282F-8CEE-4533-92B6-E4A49F6D776A}|BookStoreService\\BookStoreService.csproj|solutionrelative:bookstoreservice\\bookstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{050E4A72-7F29-4868-B260-C9002AB18299}|BankService\\BankService.csproj|c:\\users\\win10\\source\\repos\\cloud_racunarstvo_bookstore\\bookstore\\bankservice\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{050E4A72-7F29-4868-B260-C9002AB18299}|BankService\\BankService.csproj|solutionrelative:bankservice\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC9EDF7D-BD70-4E8F-98C5-FE01290E840C}|ValidationService\\ValidationService.csproj|c:\\users\\win10\\source\\repos\\cloud_racunarstvo_bookstore\\bookstore\\validationservice\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9EDF7D-BD70-4E8F-98C5-FE01290E840C}|ValidationService\\ValidationService.csproj|solutionrelative:validationservice\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,41 +58,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClientApi.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\Cloud_Racunarstvo_BookStore\\BookStore\\ClientApi\\ClientApi.cs",
-              "RelativeDocumentMoniker": "ClientApi\\ClientApi.cs",
-              "ToolTip": "C:\\Users\\Win10\\source\\repos\\Cloud_Racunarstvo_BookStore\\BookStore\\ClientApi\\ClientApi.cs",
-              "RelativeToolTip": "ClientApi\\ClientApi.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAiwD8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T19:24:39.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BankService.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\Cloud_Racunarstvo_BookStore\\BookStore\\BankService\\BankService.cs",
-              "RelativeDocumentMoniker": "BankService\\BankService.cs",
-              "ToolTip": "C:\\Users\\Win10\\source\\repos\\Cloud_Racunarstvo_BookStore\\BookStore\\BankService\\BankService.cs",
-              "RelativeToolTip": "BankService\\BankService.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAowG4AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T19:19:01.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BookStoreService.cs",
               "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\Cloud_Racunarstvo_BookStore\\BookStore\\BookStoreService\\BookStoreService.cs",
               "RelativeDocumentMoniker": "BookStoreService\\BookStoreService.cs",
               "ToolTip": "C:\\Users\\Win10\\source\\repos\\Cloud_Racunarstvo_BookStore\\BookStore\\BookStoreService\\BookStoreService.cs",
               "RelativeToolTip": "BookStoreService\\BookStoreService.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAswLMAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAALMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T19:14:10.67Z",
+              "WhenOpened": "2024-11-17T19:51:26.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\Cloud_Racunarstvo_BookStore\\BookStore\\ValidationService\\ValidationService.cs",
+              "RelativeDocumentMoniker": "ValidationService\\ValidationService.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\Cloud_Racunarstvo_BookStore\\BookStore\\ValidationService\\ValidationService.cs",
+              "RelativeToolTip": "ValidationService\\ValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:50:30.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionCoordinator.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\Cloud_Racunarstvo_BookStore\\BookStore\\TransactionCoordinator\\TransactionCoordinator.cs",
+              "RelativeDocumentMoniker": "TransactionCoordinator\\TransactionCoordinator.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\Cloud_Racunarstvo_BookStore\\BookStore\\TransactionCoordinator\\TransactionCoordinator.cs",
+              "RelativeToolTip": "TransactionCoordinator\\TransactionCoordinator.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:49:34.41Z",
               "EditorCaption": ""
             }
           ]
