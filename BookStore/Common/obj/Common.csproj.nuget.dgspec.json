@@ -47,6 +47,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.ServiceFabric.Services.Remoting": {
+              "target": "Package",
+              "version": "[7.1.2493, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
