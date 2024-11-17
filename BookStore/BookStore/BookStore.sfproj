@@ -38,6 +38,9 @@
   <ItemGroup>
     <ProjectReference Include="..\BankService\BankService.csproj" />
     <ProjectReference Include="..\BookStoreService\BookStoreService.csproj" />
+    <ProjectReference Include="..\ClientApi\ClientApi.csproj">
+      <ServiceLaunchUrl>http://localhost:{ServicePort}/swagger</ServiceLaunchUrl>
+    </ProjectReference>
     <ProjectReference Include="..\TransactionCoordinator\TransactionCoordinator.csproj" />
     <ProjectReference Include="..\ValidationService\ValidationService.csproj" />
   </ItemGroup>

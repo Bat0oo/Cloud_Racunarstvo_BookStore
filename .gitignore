@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BookStore/.vs/BookStore/DesignTimeBuild/.dtbcache.v2
+.vs/
+

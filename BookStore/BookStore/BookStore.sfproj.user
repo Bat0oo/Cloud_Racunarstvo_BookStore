@@ -4,6 +4,6 @@
     <IsStartupProjectCheckComplete>true</IsStartupProjectCheckComplete>
     <ApplicationUrl />
     <LastServiceLocation />
-    <LaunchTarget>[UseApplicationUrl]</LaunchTarget>
+    <LaunchTarget>..\ClientApi\ClientApi.csproj</LaunchTarget>
   </PropertyGroup>
 </Project>
