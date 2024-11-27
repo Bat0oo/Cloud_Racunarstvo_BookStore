@@ -1,0 +1,453 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Communication/1.0.0": {
+        "dependencies": {
+          "Microsoft.ServiceFabric.Services.Remoting": "7.0.1816",
+          "Microsoft.VisualStudio.Azure.Fabric.MSBuild": "1.7.9"
+        },
+        "runtime": {
+          "Communication.dll": {}
+        }
+      },
+      "Microsoft.ServiceFabric/10.0.1816": {
+        "dependencies": {
+          "System.Memory": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Internal.Strings.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Internal.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Preview.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "lib/netstandard2.0/StartupServicesModel.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "lib/netstandard2.0/System.Fabric.Management.ServiceModel.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "lib/netstandard2.0/System.Fabric.Strings.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "lib/netstandard2.0/System.Fabric.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.McgInterop.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.Strings.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Preview.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/linux/lib/netstandard2.0/StartupServicesModel.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/linux/lib/netstandard2.0/System.Fabric.Management.ServiceModel.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/linux/lib/netstandard2.0/System.Fabric.McgInterop.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux/lib/netstandard2.0/System.Fabric.Strings.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/linux/lib/netstandard2.0/System.Fabric.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/linux/lib/netstandard2.0/System.Private.CompilerServices.ICastable.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.25405.0"
+          },
+          "runtimes/linux/lib/netstandard2.0/System.Private.Interop.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.Strings.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Preview.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/StartupServicesModel.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/System.Fabric.Management.ServiceModel.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/System.Fabric.Strings.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/System.Fabric.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Data/7.0.1816": {
+        "dependencies": {
+          "Microsoft.ServiceFabric": "10.0.1816",
+          "Microsoft.ServiceFabric.Data.Extensions": "7.0.1816",
+          "Microsoft.ServiceFabric.Data.Interfaces": "7.0.1816"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Data.Extensions/7.0.1816": {
+        "dependencies": {
+          "Microsoft.ServiceFabric": "10.0.1816",
+          "Microsoft.ServiceFabric.Data.Interfaces": "7.0.1816"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll": {
+            "assemblyVersion": "1.4.5.0",
+            "fileVersion": "1.4.5.0"
+          },
+          "lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "1.4.5.0",
+            "fileVersion": "1.4.5.0"
+          },
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Extensions.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "1.4.5.0",
+            "fileVersion": "1.4.5.0"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.ReliableCollection.Interop.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Data.Interfaces/7.0.1816": {
+        "dependencies": {
+          "Microsoft.ServiceFabric": "10.0.1816"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Diagnostics.Internal/7.0.1816": {
+        "dependencies": {
+          "Microsoft.ServiceFabric": "10.0.1816"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Diagnostics.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.Diagnostics.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Diagnostics.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.FabricTransport.Internal/7.0.1816": {
+        "dependencies": {
+          "Microsoft.ServiceFabric": "10.0.1816"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.FabricTransport.V2.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "lib/netstandard2.0/Microsoft.ServiceFabric.FabricTransport.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.FabricTransport.McgInterop.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.FabricTransport.V2.McgInterop.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.FabricTransport.V2.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/linux/lib/netstandard2.0/Microsoft.ServiceFabric.FabricTransport.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/linux/lib/netstandard2.0/System.Private.CompilerServices.ICastable.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.25405.0"
+          },
+          "runtimes/linux/lib/netstandard2.0/System.Private.Interop.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.FabricTransport.V2.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.FabricTransport.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Services/7.0.1816": {
+        "dependencies": {
+          "Microsoft.ServiceFabric.Data": "7.0.1816",
+          "Microsoft.ServiceFabric.Diagnostics.Internal": "7.0.1816"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Services.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "7.0.3.0"
+          }
+        }
+      },
+      "Microsoft.ServiceFabric.Services.Remoting/7.0.1816": {
+        "dependencies": {
+          "Microsoft.ServiceFabric.Diagnostics.Internal": "7.0.1816",
+          "Microsoft.ServiceFabric.FabricTransport.Internal": "7.0.1816",
+          "Microsoft.ServiceFabric.Services": "7.0.1816"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ServiceFabric.Services.Remoting.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "7.0.3.0"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Azure.Fabric.MSBuild/1.7.9": {},
+      "System.Memory/4.5.3": {}
+    }
+  },
+  "libraries": {
+    "Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.ServiceFabric/10.0.1816": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BHw9jEL7f6Zhisn333ZKzOkLJ74f7TalAp7hPvUi32YH5GVGUfp5bg9lU2pvrlG7l3tKOOtOsM5x9A2c/Jpz9w==",
+      "path": "microsoft.servicefabric/10.0.1816",
+      "hashPath": "microsoft.servicefabric.10.0.1816.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Data/7.0.1816": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X4qNivv8Hw7sv0mteuFI1+ChC2X5BZ6JVIgPEJ4hEReKVdnn3Ki7ftrRDObOe1rwP+8PUG+W0m6gsYtxTy8FQA==",
+      "path": "microsoft.servicefabric.data/7.0.1816",
+      "hashPath": "microsoft.servicefabric.data.7.0.1816.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Data.Extensions/7.0.1816": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WEdRt8w/hU0Y+bC34XCnBgi8OLnqkqNXSfncq9eRU5RzjhBaJqmbN+jowA4tmrOLLJK2dfk+6LH8A6Ls1CL+iw==",
+      "path": "microsoft.servicefabric.data.extensions/7.0.1816",
+      "hashPath": "microsoft.servicefabric.data.extensions.7.0.1816.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Data.Interfaces/7.0.1816": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A+E2MQI9vob8qX5w4K5SMns/lQQWAnzlF9JcgkUMVidkJLrDfE6oNl6+bObEujYknCeMVZavwQcTQz7XxMvMkQ==",
+      "path": "microsoft.servicefabric.data.interfaces/7.0.1816",
+      "hashPath": "microsoft.servicefabric.data.interfaces.7.0.1816.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Diagnostics.Internal/7.0.1816": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VanadsiZBJao1zDrY/0zEri/p/jpCIE1WXpvlmFJEqmWQ5MuKcSLrIyiqqVXwMe5bwZXzQjYnl9c6zx/UI5cLA==",
+      "path": "microsoft.servicefabric.diagnostics.internal/7.0.1816",
+      "hashPath": "microsoft.servicefabric.diagnostics.internal.7.0.1816.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.FabricTransport.Internal/7.0.1816": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6zfVHG34jvgZmr41PVAcVI8B7vMSPDBW17dhk16OM6B6lJYnjJDu+v06Z2IJUeiSWDZ+yPcuALBVoMbU4ObHpA==",
+      "path": "microsoft.servicefabric.fabrictransport.internal/7.0.1816",
+      "hashPath": "microsoft.servicefabric.fabrictransport.internal.7.0.1816.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Services/7.0.1816": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p9aHjcFO1342c0hFB9ZICPvWSeh+z47dyIf7HiuyxOpaLWq2bby43CxWHCZFkOWpicfRjF/j5x+3WiEY+7mJPw==",
+      "path": "microsoft.servicefabric.services/7.0.1816",
+      "hashPath": "microsoft.servicefabric.services.7.0.1816.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Services.Remoting/7.0.1816": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t7GAvQOSTJRMz3eAoam0JoASsV6BEkPEAdplKwU/qi61X4gVyArB3BEh56Gvd9T6+RPM9S/wAx+KnAsK3bnhsg==",
+      "path": "microsoft.servicefabric.services.remoting/7.0.1816",
+      "hashPath": "microsoft.servicefabric.services.remoting.7.0.1816.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Fabric.MSBuild/1.7.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-d8NgCY4KgiKxfZ5mJkKI0HY0D8wN788c1jBglivvUYq95XvZBLfTOvBg676vtkA6YAEu4lvaV6YIncJegAmjsg==",
+      "path": "microsoft.visualstudio.azure.fabric.msbuild/1.7.9",
+      "hashPath": "microsoft.visualstudio.azure.fabric.msbuild.1.7.9.nupkg.sha512"
+    },
+    "System.Memory/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
+      "path": "system.memory/4.5.3",
+      "hashPath": "system.memory.4.5.3.nupkg.sha512"
+    }
+  }
+}

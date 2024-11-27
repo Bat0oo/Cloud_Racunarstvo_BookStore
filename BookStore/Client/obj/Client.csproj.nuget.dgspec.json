@@ -1,0 +1,192 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Client\\Client.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Client\\Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Client\\Client.csproj",
+        "projectName": "Client",
+        "projectPath": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Client\\Client.csproj",
+        "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\Communication.csproj": {
+                "projectPath": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\Communication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.ServiceFabric.AspNetCore.Kestrel": {
+              "target": "Package",
+              "version": "[7.0.1816, )"
+            },
+            "Microsoft.ServiceFabric.Services.Remoting": {
+              "target": "Package",
+              "version": "[7.0.1816, )"
+            },
+            "Microsoft.VisualStudio.Azure.Fabric.MSBuild": {
+              "target": "Package",
+              "version": "[1.7.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[7.0.0, 7.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[7.0.0, 7.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[7.0.0, 7.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\Communication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\Communication.csproj",
+        "projectName": "Communication",
+        "projectPath": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\Communication.csproj",
+        "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.ServiceFabric.Services.Remoting": {
+              "target": "Package",
+              "version": "[7.0.1816, )"
+            },
+            "Microsoft.VisualStudio.Azure.Fabric.MSBuild": {
+              "target": "Package",
+              "version": "[1.7.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

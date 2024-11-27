@@ -1,0 +1,50 @@
+﻿@model Client.UI.Models.EnlistMoneyTransferViewModel
+
+@{
+    ViewData["Title"] = "Money transfer";
+
+    List<SelectListItem> userIds = new List<SelectListItem>
+    {
+        new SelectListItem { Value = "1", Text = "John Doe" },
+        new SelectListItem { Value = "2", Text = "Jane Smith" },
+        new SelectListItem { Value = "3", Text = "Bob Johnson" },
+        new SelectListItem { Value = "4", Text = "Alice Williams" },
+        new SelectListItem { Value = "5", Text = "Charlie Brown" }
+    };
+}
+
+<h1>Money transfer</h1>
+
+@*<h4>EnlistMoneyTransferViewModel</h4>*@
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="EnlistMoneyTransfer" asp-controller="Banks">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <input asp-for="UserSendId" type="hidden" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="UserReceiveId" class="control-label">Send to user:</label>
+                @Html.DropDownListFor(model => model.UserReceiveId, userIds, "Select User", new { @class = "form-control" })
+                <span asp-validation-for="UserReceiveId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Amount" class="control-label"></label>
+                <input asp-for="Amount" class="form-control" />
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@*<div>
+    <a asp-action="Index">Back to List</a>
+</div>*@
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

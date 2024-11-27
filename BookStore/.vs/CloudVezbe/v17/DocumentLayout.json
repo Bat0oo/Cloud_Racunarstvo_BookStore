@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{797F862A-35B6-4CF8-BAE1-4CE05B7330BB}|Client\\Client.csproj|c:\\users\\win10\\source\\repos\\cioud_racunarstvo_bookstore\\bookstore\\client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{797F862A-35B6-4CF8-BAE1-4CE05B7330BB}|Client\\Client.csproj|solutionrelative:client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FDFD95-E033-473B-BC3D-4C74F13B10A3}|Communication\\Communication.csproj|c:\\users\\win10\\source\\repos\\cioud_racunarstvo_bookstore\\bookstore\\communication\\transactioncoordinator\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FDFD95-E033-473B-BC3D-4C74F13B10A3}|Communication\\Communication.csproj|solutionrelative:communication\\transactioncoordinator\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FDFD95-E033-473B-BC3D-4C74F13B10A3}|Communication\\Communication.csproj|c:\\users\\win10\\source\\repos\\cioud_racunarstvo_bookstore\\bookstore\\communication\\transactioncoordinator\\itransactioncoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FDFD95-E033-473B-BC3D-4C74F13B10A3}|Communication\\Communication.csproj|solutionrelative:communication\\transactioncoordinator\\itransactioncoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FDFD95-E033-473B-BC3D-4C74F13B10A3}|Communication\\Communication.csproj|c:\\users\\win10\\source\\repos\\cioud_racunarstvo_bookstore\\bookstore\\communication\\validation\\ivalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FDFD95-E033-473B-BC3D-4C74F13B10A3}|Communication\\Communication.csproj|solutionrelative:communication\\validation\\ivalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FDFD95-E033-473B-BC3D-4C74F13B10A3}|Communication\\Communication.csproj|c:\\users\\win10\\source\\repos\\cioud_racunarstvo_bookstore\\bookstore\\communication\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FDFD95-E033-473B-BC3D-4C74F13B10A3}|Communication\\Communication.csproj|solutionrelative:communication\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FDFD95-E033-473B-BC3D-4C74F13B10A3}|Communication\\Communication.csproj|c:\\users\\win10\\source\\repos\\cioud_racunarstvo_bookstore\\bookstore\\communication\\transactioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FDFD95-E033-473B-BC3D-4C74F13B10A3}|Communication\\Communication.csproj|solutionrelative:communication\\transactioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FDFD95-E033-473B-BC3D-4C74F13B10A3}|Communication\\Communication.csproj|c:\\users\\win10\\source\\repos\\cioud_racunarstvo_bookstore\\bookstore\\communication\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FDFD95-E033-473B-BC3D-4C74F13B10A3}|Communication\\Communication.csproj|solutionrelative:communication\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FDFD95-E033-473B-BC3D-4C74F13B10A3}|Communication\\Communication.csproj|c:\\users\\win10\\source\\repos\\cioud_racunarstvo_bookstore\\bookstore\\communication\\enumextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FDFD95-E033-473B-BC3D-4C74F13B10A3}|Communication\\Communication.csproj|solutionrelative:communication\\enumextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C4A085-D26E-41FC-9F5F-E86AD4FA97EE}|Validation\\Validation.csproj|c:\\users\\win10\\source\\repos\\cioud_racunarstvo_bookstore\\bookstore\\validation\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C4A085-D26E-41FC-9F5F-E86AD4FA97EE}|Validation\\Validation.csproj|solutionrelative:validation\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6DC895-09AE-475E-8916-EB09E1606438}|TransactionCoordinator\\TransactionCoordinator.csproj|c:\\users\\win10\\source\\repos\\cioud_racunarstvo_bookstore\\bookstore\\transactioncoordinator\\transactioncoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6DC895-09AE-475E-8916-EB09E1606438}|TransactionCoordinator\\TransactionCoordinator.csproj|solutionrelative:transactioncoordinator\\transactioncoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797F862A-35B6-4CF8-BAE1-4CE05B7330BB}|Client\\Client.csproj|c:\\users\\win10\\source\\repos\\cioud_racunarstvo_bookstore\\bookstore\\client\\controllers\\bankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797F862A-35B6-4CF8-BAE1-4CE05B7330BB}|Client\\Client.csproj|solutionrelative:client\\controllers\\bankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BC96CC-22BC-4D3C-B690-CF4B268A4827}|CloudVezbe\\CloudVezbe.sfproj|c:\\users\\win10\\source\\repos\\cioud_racunarstvo_bookstore\\bookstore\\cloudvezbe\\applicationpackageroot\\applicationmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27BC96CC-22BC-4D3C-B690-CF4B268A4827}|CloudVezbe\\CloudVezbe.sfproj|solutionrelative:cloudvezbe\\applicationpackageroot\\applicationmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797F862A-35B6-4CF8-BAE1-4CE05B7330BB}|Client\\Client.csproj|c:\\users\\win10\\source\\repos\\cioud_racunarstvo_bookstore\\bookstore\\client\\controllers\\bookstorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797F862A-35B6-4CF8-BAE1-4CE05B7330BB}|Client\\Client.csproj|solutionrelative:client\\controllers\\bookstorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797F862A-35B6-4CF8-BAE1-4CE05B7330BB}|Client\\Client.csproj|c:\\users\\win10\\source\\repos\\cioud_racunarstvo_bookstore\\bookstore\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797F862A-35B6-4CF8-BAE1-4CE05B7330BB}|Client\\Client.csproj|solutionrelative:client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0849e941-4665-42e5-8dd0-e4c8da15dbd0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Client\\appsettings.json",
+              "RelativeDocumentMoniker": "Client\\appsettings.json",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Client\\appsettings.json",
+              "RelativeToolTip": "Client\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-17T22:57:17.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITransaction.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\TransactionCoordinator\\ITransaction.cs",
+              "RelativeDocumentMoniker": "Communication\\TransactionCoordinator\\ITransaction.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\TransactionCoordinator\\ITransaction.cs",
+              "RelativeToolTip": "Communication\\TransactionCoordinator\\ITransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:39:50.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITransactionCoordinator.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\TransactionCoordinator\\ITransactionCoordinator.cs",
+              "RelativeDocumentMoniker": "Communication\\TransactionCoordinator\\ITransactionCoordinator.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\TransactionCoordinator\\ITransactionCoordinator.cs",
+              "RelativeToolTip": "Communication\\TransactionCoordinator\\ITransactionCoordinator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:39:48.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\Constants.cs",
+              "RelativeDocumentMoniker": "Communication\\Constants.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\Constants.cs",
+              "RelativeToolTip": "Communication\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:39:45.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionContext.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\TransactionContext.cs",
+              "RelativeDocumentMoniker": "Communication\\TransactionContext.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\TransactionContext.cs",
+              "RelativeToolTip": "Communication\\TransactionContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:39:42.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\Enums.cs",
+              "RelativeDocumentMoniker": "Communication\\Enums.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\Enums.cs",
+              "RelativeToolTip": "Communication\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:39:40.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnumExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\EnumExtensions.cs",
+              "RelativeDocumentMoniker": "Communication\\EnumExtensions.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\EnumExtensions.cs",
+              "RelativeToolTip": "Communication\\EnumExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:39:37.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionCoordinator.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\TransactionCoordinator\\TransactionCoordinator.cs",
+              "RelativeDocumentMoniker": "TransactionCoordinator\\TransactionCoordinator.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\TransactionCoordinator\\TransactionCoordinator.cs",
+              "RelativeToolTip": "TransactionCoordinator\\TransactionCoordinator.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwFYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:08:22.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Validation\\Validation.cs",
+              "RelativeDocumentMoniker": "Validation\\Validation.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Validation\\Validation.cs",
+              "RelativeToolTip": "Validation\\Validation.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwGEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:08:10.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\Validation\\IValidation.cs",
+              "RelativeDocumentMoniker": "Communication\\Validation\\IValidation.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Communication\\Validation\\IValidation.cs",
+              "RelativeToolTip": "Communication\\Validation\\IValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:05:50.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\CloudVezbe\\ApplicationPackageRoot\\ApplicationManifest.xml",
+              "RelativeDocumentMoniker": "CloudVezbe\\ApplicationPackageRoot\\ApplicationManifest.xml",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\CloudVezbe\\ApplicationPackageRoot\\ApplicationManifest.xml",
+              "RelativeToolTip": "CloudVezbe\\ApplicationPackageRoot\\ApplicationManifest.xml",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-17T21:47:32.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Client\\Client.cs",
+              "RelativeDocumentMoniker": "Client\\Client.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Client\\Client.cs",
+              "RelativeToolTip": "Client\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:46:05.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookstoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Client\\Controllers\\BookstoresController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\BookstoresController.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Client\\Controllers\\BookstoresController.cs",
+              "RelativeToolTip": "Client\\Controllers\\BookstoresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:18:27.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BanksController.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Client\\Controllers\\BanksController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\BanksController.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Client\\Controllers\\BanksController.cs",
+              "RelativeToolTip": "Client\\Controllers\\BanksController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:13:40.735Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

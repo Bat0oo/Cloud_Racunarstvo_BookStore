@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Client.UI.Models.BookViewModel>
+
+@{
+    ViewData["Title"] = "Books";
+}
+
+<h1>List of books</h1>
+
+@*<p>
+    <a asp-action="Create">Create New</a>
+</p>*@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PagesNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PublicationYear)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            @*<th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>*@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PagesNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PublicationYear)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>*@
+            <td>
+                @*@Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |*@
+                @Html.ActionLink("Details", "GetItem", "Bookstores", new { id = item.Id }) |
+                @Html.ActionLink("Purchase item", "EnlistPurchase", "Bookstores", new { bookId = item.Id, count = 0 })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

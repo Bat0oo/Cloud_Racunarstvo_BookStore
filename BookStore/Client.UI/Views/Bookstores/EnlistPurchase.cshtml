@@ -1,0 +1,41 @@
+﻿@model Client.UI.Models.EnlistPurchaseViewModel
+
+@{
+    ViewData["Title"] = "Purchase";
+}
+
+<h1>Purchase</h1>
+
+@*<h4>EnlistPurchaseViewModel</h4>*@
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="EnlistPurchase" asp-controller="Bookstores">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            @*<input asp-for="BookId" type="hidden" />*@
+
+            <div class="form-group">
+                <label asp-for="BookId" class="control-label"></label>
+                <input asp-for="BookId" type="hidden" class="form-control" />
+                <span asp-validation-for="BookId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Count" class="control-label"></label>
+                <input asp-for="Count" class="form-control" min="1"/>
+                <span asp-validation-for="Count" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Purchase" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@*<div>
+    <a asp-action="Index">Back to List</a>
+</div>*@
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

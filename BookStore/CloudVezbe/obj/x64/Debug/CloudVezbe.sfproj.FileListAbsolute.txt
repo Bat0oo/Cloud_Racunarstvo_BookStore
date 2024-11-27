@@ -1,0 +1,3 @@
+C:\GithubRepositoriesFaculty\Cloud racunarstvo u infrastrukturnim sistemima\CloudVezbe\CloudVezbe\obj\x64\Debug\CloudVezbe.sfproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\CloudVezbe-main\CloudVezbe\obj\x64\Debug\CloudVezbe.sfproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\CloudVezbe\obj\x64\Debug\CloudVezbe.sfproj.CoreCompileInputs.cache

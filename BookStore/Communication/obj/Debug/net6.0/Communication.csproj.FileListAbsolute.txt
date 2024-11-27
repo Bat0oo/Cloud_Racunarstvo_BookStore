@@ -1,0 +1,36 @@
+C:\GithubRepositoriesFaculty\Cloud racunarstvo u infrastrukturnim sistemima\CloudVezbe\Communication\bin\Debug\net6.0\Communication.deps.json
+C:\GithubRepositoriesFaculty\Cloud racunarstvo u infrastrukturnim sistemima\CloudVezbe\Communication\bin\Debug\net6.0\Communication.dll
+C:\GithubRepositoriesFaculty\Cloud racunarstvo u infrastrukturnim sistemima\CloudVezbe\Communication\bin\Debug\net6.0\Communication.pdb
+C:\GithubRepositoriesFaculty\Cloud racunarstvo u infrastrukturnim sistemima\CloudVezbe\Communication\obj\Debug\net6.0\Communication.csproj.AssemblyReference.cache
+C:\GithubRepositoriesFaculty\Cloud racunarstvo u infrastrukturnim sistemima\CloudVezbe\Communication\obj\Debug\net6.0\Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubRepositoriesFaculty\Cloud racunarstvo u infrastrukturnim sistemima\CloudVezbe\Communication\obj\Debug\net6.0\Communication.AssemblyInfoInputs.cache
+C:\GithubRepositoriesFaculty\Cloud racunarstvo u infrastrukturnim sistemima\CloudVezbe\Communication\obj\Debug\net6.0\Communication.AssemblyInfo.cs
+C:\GithubRepositoriesFaculty\Cloud racunarstvo u infrastrukturnim sistemima\CloudVezbe\Communication\obj\Debug\net6.0\Communication.csproj.CoreCompileInputs.cache
+C:\GithubRepositoriesFaculty\Cloud racunarstvo u infrastrukturnim sistemima\CloudVezbe\Communication\obj\Debug\net6.0\Communication.dll
+C:\GithubRepositoriesFaculty\Cloud racunarstvo u infrastrukturnim sistemima\CloudVezbe\Communication\obj\Debug\net6.0\refint\Communication.dll
+C:\GithubRepositoriesFaculty\Cloud racunarstvo u infrastrukturnim sistemima\CloudVezbe\Communication\obj\Debug\net6.0\Communication.pdb
+C:\GithubRepositoriesFaculty\Cloud racunarstvo u infrastrukturnim sistemima\CloudVezbe\Communication\obj\Debug\net6.0\ref\Communication.dll
+C:\Users\Win10\Desktop\CloudVezbe-main\Communication\bin\Debug\net6.0\Communication.deps.json
+C:\Users\Win10\Desktop\CloudVezbe-main\Communication\bin\Debug\net6.0\Communication.dll
+C:\Users\Win10\Desktop\CloudVezbe-main\Communication\bin\Debug\net6.0\Communication.pdb
+C:\Users\Win10\Desktop\CloudVezbe-main\Communication\obj\Debug\net6.0\Communication.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\CloudVezbe-main\Communication\obj\Debug\net6.0\Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\CloudVezbe-main\Communication\obj\Debug\net6.0\Communication.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\CloudVezbe-main\Communication\obj\Debug\net6.0\Communication.AssemblyInfo.cs
+C:\Users\Win10\Desktop\CloudVezbe-main\Communication\obj\Debug\net6.0\Communication.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\CloudVezbe-main\Communication\obj\Debug\net6.0\Communication.dll
+C:\Users\Win10\Desktop\CloudVezbe-main\Communication\obj\Debug\net6.0\refint\Communication.dll
+C:\Users\Win10\Desktop\CloudVezbe-main\Communication\obj\Debug\net6.0\Communication.pdb
+C:\Users\Win10\Desktop\CloudVezbe-main\Communication\obj\Debug\net6.0\ref\Communication.dll
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\bin\Debug\net6.0\Communication.deps.json
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\bin\Debug\net6.0\Communication.dll
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\bin\Debug\net6.0\Communication.pdb
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\obj\Debug\net6.0\Communication.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\obj\Debug\net6.0\Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\obj\Debug\net6.0\Communication.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\obj\Debug\net6.0\Communication.AssemblyInfo.cs
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\obj\Debug\net6.0\Communication.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\obj\Debug\net6.0\Communication.dll
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\obj\Debug\net6.0\refint\Communication.dll
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\obj\Debug\net6.0\Communication.pdb
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\obj\Debug\net6.0\ref\Communication.dll

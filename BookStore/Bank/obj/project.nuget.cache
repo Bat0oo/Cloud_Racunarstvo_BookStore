@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "VT/4LI5CEQc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Win10\\source\\repos\\CIoud_Racunarstvo_BookStore\\BookStore\\Bank\\Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.servicefabric\\10.0.1816\\microsoft.servicefabric.10.0.1816.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.servicefabric.data\\7.0.1816\\microsoft.servicefabric.data.7.0.1816.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\7.0.1816\\microsoft.servicefabric.data.extensions.7.0.1816.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\7.0.1816\\microsoft.servicefabric.data.interfaces.7.0.1816.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\7.0.1816\\microsoft.servicefabric.diagnostics.internal.7.0.1816.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.servicefabric.fabrictransport.internal\\7.0.1816\\microsoft.servicefabric.fabrictransport.internal.7.0.1816.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.servicefabric.services\\7.0.1816\\microsoft.servicefabric.services.7.0.1816.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.servicefabric.services.remoting\\7.0.1816\\microsoft.servicefabric.services.remoting.7.0.1816.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.visualstudio.azure.fabric.msbuild\\1.7.9\\microsoft.visualstudio.azure.fabric.msbuild.1.7.9.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.0\\microsoft.aspnetcore.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.0\\microsoft.netcore.app.runtime.win-x64.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
