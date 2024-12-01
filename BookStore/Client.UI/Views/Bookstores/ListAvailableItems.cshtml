@@ -4,35 +4,31 @@
     ViewData["Title"] = "Books";
 }
 
-<h1>List of books</h1>
+<h1>Lista dostupnih knjiga</h1>
 
-@*<p>
-    <a asp-action="Create">Create New</a>
-</p>*@
+
 <table class="table">
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Title)
+               Naslov
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Author)
+                Autor
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.PagesNumber)
+                Broj stranica
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.PublicationYear)
+                Godina izdavanja
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Price)
+                Cena
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Quantity)
+                Kolicina
             </th>
-            @*<th>
-                @Html.DisplayNameFor(model => model.Id)
-            </th>*@
+       
             <th></th>
         </tr>
     </thead>
@@ -62,8 +58,8 @@
             </td>*@
             <td>
                 @*@Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |*@
-                @Html.ActionLink("Details", "GetItem", "Bookstores", new { id = item.Id }) |
-                @Html.ActionLink("Purchase item", "EnlistPurchase", "Bookstores", new { bookId = item.Id, count = 0 })
+                @Html.ActionLink("Detalji", "GetItem", "Bookstores", new { id = item.Id }) |
+                @Html.ActionLink("Kupi", "EnlistPurchase", "Bookstores", new { bookId = item.Id, count = 0 })
             </td>
         </tr>
 }

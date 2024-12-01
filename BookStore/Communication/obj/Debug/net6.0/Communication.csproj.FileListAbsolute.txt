@@ -30,6 +30,7 @@ C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\obj\Debug\net6.0\Communication.AssemblyInfoInputs.cache
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\obj\Debug\net6.0\Communication.AssemblyInfo.cs
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\obj\Debug\net6.0\Communication.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\obj\Debug\net6.0\Communication.sourcelink.json
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\obj\Debug\net6.0\Communication.dll
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\obj\Debug\net6.0\refint\Communication.dll
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Communication\obj\Debug\net6.0\Communication.pdb

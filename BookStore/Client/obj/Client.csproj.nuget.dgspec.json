@@ -52,6 +52,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.ServiceFabric.AspNetCore.Kestrel": {
               "target": "Package",
               "version": "[7.0.1816, )"

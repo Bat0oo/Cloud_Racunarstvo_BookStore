@@ -4,7 +4,7 @@
     ViewData["Title"] = "details";
 }
 
-<h1>Details</h1>
+<h1>Informacije o knjizi</h1>
 
 @*<h4>BookViewModel</h4>*@
 <hr />
@@ -13,43 +13,36 @@
         <form asp-action="GetItem">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Title" class="control-label"></label>
+                <label asp-for="Title" class="control-label">Naslov</label>
                 <input asp-for="Title" class="form-control" readonly />
                 <span asp-validation-for="Title" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Author" class="control-label"></label>
+                <label asp-for="Author" class="control-label">Autor</label>
                 <input asp-for="Author" class="form-control" readonly />
                 <span asp-validation-for="Author" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="PagesNumber" class="control-label"></label>
+                <label asp-for="PagesNumber" class="control-label">Broj strana</label>
                 <input asp-for="PagesNumber" class="form-control" readonly />
                 <span asp-validation-for="PagesNumber" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="PublicationYear" class="control-label"></label>
+                <label asp-for="PublicationYear" class="control-label">Godina izdavanja</label>
                 <input asp-for="PublicationYear" class="form-control" readonly />
                 <span asp-validation-for="PublicationYear" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Price" class="control-label"></label>
+                <label asp-for="Price" class="control-label">Cena</label>
                 <input asp-for="Price" class="form-control" readonly />
                 <span asp-validation-for="Price" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Quantity" class="control-label"></label>
+                <label asp-for="Quantity" class="control-label">Kolicina</label>
                 <input asp-for="Quantity" class="form-control" readonly />
                 <span asp-validation-for="Quantity" class="text-danger"></span>
             </div>
-            @*<div class="form-group">
-                <label asp-for="Id" class="control-label"></label>
-                <input asp-for="Id" class="form-control" />
-                <span asp-validation-for="Id" class="text-danger"></span>
-            </div>*@
-            @*<div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
-            </div>*@
+
         </form>
     </div>
 </div>

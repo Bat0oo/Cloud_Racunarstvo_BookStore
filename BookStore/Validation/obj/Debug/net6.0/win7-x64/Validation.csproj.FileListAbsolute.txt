@@ -757,6 +757,7 @@ C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Validation\obj
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Validation\obj\Debug\net6.0\win7-x64\Validation.AssemblyInfoInputs.cache
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Validation\obj\Debug\net6.0\win7-x64\Validation.AssemblyInfo.cs
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Validation\obj\Debug\net6.0\win7-x64\Validation.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Validation\obj\Debug\net6.0\win7-x64\Validation.sourcelink.json
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Validation\obj\Debug\net6.0\win7-x64\Validation.csproj.Up2Date
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Validation\obj\Debug\net6.0\win7-x64\Validation.dll
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Validation\obj\Debug\net6.0\win7-x64\refint\Validation.dll

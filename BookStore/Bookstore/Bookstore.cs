@@ -32,11 +32,11 @@ namespace Bookstore
 
             var books = new List<Book>()
             {
-                new Book(){ Id = 1, Title = "To Kill a Mockingbird", Author = "Harper Lee", PagesNumber = 281, PublicationYear = 1960, Price = 9.99, Quantity = 10 },
-                new Book(){ Id = 2, Title = "1984", Author = "George Orwell", PagesNumber = 328, PublicationYear = 1949, Price = 10.60, Quantity = 10 },
-                new Book(){ Id = 3, Title = "The Great Gatsby", Author = "F. Scott Fitzgerald", PagesNumber = 180, PublicationYear = 1925, Price = 22.35, Quantity = 10 },
-                new Book(){ Id = 4, Title = "The Hobbit", Author = "J.R.R. Tolkien", PagesNumber = 310 , PublicationYear = 1937, Price = 50.00, Quantity = 10 },
-                new Book(){ Id = 5, Title = "Pride and Prejudice", Author = "Jane Austen", PagesNumber = 279, PublicationYear = 1813, Price = 14.85, Quantity = 10 }
+                new Book(){ Id = 1, Title = "Seobe", Author = "Milos Crnjanski", PagesNumber = 281, PublicationYear = 1960, Price = 9.99, Quantity = 10 },
+                new Book(){ Id = 2, Title = "1984", Author = "Dzordz Osvel", PagesNumber = 328, PublicationYear = 1949, Price = 10.60, Quantity = 10 },
+                new Book(){ Id = 3, Title = "Na Drini Cuprija", Author = "Ivo Andric", PagesNumber = 180, PublicationYear = 1925, Price = 22.35, Quantity = 10 },
+                new Book(){ Id = 4, Title = "Tvrdjava", Author = "Mesa Selimovic", PagesNumber = 310 , PublicationYear = 1937, Price = 50.00, Quantity = 10 },
+                new Book(){ Id = 5, Title = "Seobe 2", Author = "Milos Crnjanski", PagesNumber = 279, PublicationYear = 1813, Price = 14.85, Quantity = 10 }
             };
 
             using (var transaction = StateManager.CreateTransaction())

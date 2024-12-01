@@ -33,11 +33,11 @@ namespace Bank
 
             var clients = new List<Client>()
             {
-                new Client() { Id = 1, FirstName = "John", LastName = "Doe", DateOfBirth = new DateTime(1990, 1, 1), BankName = "Horizon Bank", BankAccount = 1000.00, BankMembership = BankMembership.Gold.GetDescription() },
-                new Client() { Id = 2, FirstName = "Jane", LastName = "Smith", DateOfBirth = new DateTime(1985, 5, 15), BankName = "Unity Trust", BankAccount = 750.50, BankMembership = BankMembership.Silver.GetDescription() },
-                new Client() { Id = 3, FirstName = "Bob", LastName = "Johnson", DateOfBirth = new DateTime(1995, 10, 8), BankName = "Capital Haven Bank", BankAccount = 500.75, BankMembership = BankMembership.Bronze.GetDescription() },
-                new Client() { Id = 4, FirstName = "Alice", LastName = "Williams", DateOfBirth = new DateTime(1982, 3, 20), BankName = "Stellar Finance", BankAccount = 2000.25, BankMembership = BankMembership.Platinum.GetDescription() },
-                new Client() { Id = 5, FirstName = "Charlie", LastName = "Brown", DateOfBirth = new DateTime(1998, 7, 3), BankName = "Golden Gate Financial", BankAccount = 1200.90, BankMembership = BankMembership.Gold.GetDescription() }
+                new Client() { Id = 1, FirstName = "John", LastName = "Doe", DateOfBirth = new DateTime(1990, 1, 1), BankName = "Banka", BankAccount = 1000.00, BankMembership = BankMembership.Gold.GetDescription() },
+                new Client() { Id = 2, FirstName = "Milorad", LastName = "Maksic", DateOfBirth = new DateTime(1985, 5, 15), BankName = "OTP", BankAccount = 750.50, BankMembership = BankMembership.Silver.GetDescription() },
+                new Client() { Id = 3, FirstName = "Mike", LastName = "Tyson", DateOfBirth = new DateTime(1995, 10, 8), BankName = "Uni Credit", BankAccount = 500.75, BankMembership = BankMembership.Bronze.GetDescription() },
+                new Client() { Id = 4, FirstName = "Jake", LastName = "Paul", DateOfBirth = new DateTime(1982, 3, 20), BankName = "Banka postanske stedionice", BankAccount = 2000.25, BankMembership = BankMembership.Platinum.GetDescription() },
+                new Client() { Id = 5, FirstName = "Savo", LastName = "Milosevic", DateOfBirth = new DateTime(1998, 7, 3), BankName = "Neka banka", BankAccount = 1200.90, BankMembership = BankMembership.Gold.GetDescription() }
             };
 
             using (var transaction = StateManager.CreateTransaction())

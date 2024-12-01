@@ -32,6 +32,18 @@ namespace Client
                         // Add services to the container.
                         builder.Services.AddControllersWithViews();
 
+                        builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()   // Allows any origin to access the resources
+              .AllowAnyMethod()   // Allows any HTTP method (GET, POST, etc.)
+              .AllowAnyHeader();  // Allows any HTTP headers
+    });
+});
+
+builder.Services.AddControllers();
+
                         var app = builder.Build();
                         
                         // Configure the HTTP request pipeline.
@@ -43,11 +55,15 @@ namespace Client
 
                         app.UseRouting();
 
-                        app.UseAuthorization();
 
-                        app.MapControllerRoute(
-                        name: "default",
-                        pattern: "{controller=Home}/{action=Index}/{id?}");
+                        app.UseCors("AllowAll");
+
+app.MapControllers();
+                      //  app.UseAuthorization();
+
+                        //app.MapControllerRoute(
+                        //name: "default",
+                        //pattern: "{controller=Home}/{action=Index}/{id?}");
 
 
                         return app;

@@ -760,6 +760,7 @@ C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Bookstore\obj\
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Bookstore\obj\Debug\net6.0\win7-x64\Bookstore.AssemblyInfoInputs.cache
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Bookstore\obj\Debug\net6.0\win7-x64\Bookstore.AssemblyInfo.cs
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Bookstore\obj\Debug\net6.0\win7-x64\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Bookstore\obj\Debug\net6.0\win7-x64\Bookstore.sourcelink.json
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Bookstore\obj\Debug\net6.0\win7-x64\Bookstore.csproj.Up2Date
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Bookstore\obj\Debug\net6.0\win7-x64\Bookstore.dll
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Bookstore\obj\Debug\net6.0\win7-x64\refint\Bookstore.dll

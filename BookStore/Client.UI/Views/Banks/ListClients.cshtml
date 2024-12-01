@@ -4,7 +4,7 @@
     ViewData["Title"] = "ListClients";
 }
 
-<h1>List of Clients</h1>
+<h1>Spisak klijenata</h1>
 
 @*<p>
     <a asp-action="Create">Create New</a>
@@ -13,22 +13,22 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.FirstName)
+               Ime
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.LastName)
+                Prezime
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.DateOfBirth)
+                Datum rodjenja
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.BankName)
+                Banka
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.BankAccount)
+                Novcano stanje
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.BankMembership)
+                Tip clanstva
             </th>
             @*<th>
                 @Html.DisplayNameFor(model => model.Id)
@@ -61,7 +61,7 @@
                 @Html.DisplayFor(modelItem => item.Id)
             </td>*@
             <td>
-                @Html.ActionLink("Transfer money", "EnlistMoneyTransfer", "Banks", new { userSendId = item.Id })
+                @Html.ActionLink("Prebaci novac", "EnlistMoneyTransfer", "Banks", new { userSendId = item.Id })
             </td>
         </tr>
 }

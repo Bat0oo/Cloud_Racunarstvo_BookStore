@@ -4,7 +4,7 @@
     ViewData["Title"] = "Purchase";
 }
 
-<h1>Purchase</h1>
+<h1>Kupovina knjige</h1>
 
 @*<h4>EnlistPurchaseViewModel</h4>*@
 <hr />
@@ -14,19 +14,20 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
             @*<input asp-for="BookId" type="hidden" />*@
-
-            <div class="form-group">
+            @*            <div class="form-group">
                 <label asp-for="BookId" class="control-label"></label>
                 <input asp-for="BookId" type="hidden" class="form-control" />
                 <span asp-validation-for="BookId" class="text-danger"></span>
             </div>
+            *@
+
             <div class="form-group">
-                <label asp-for="Count" class="control-label"></label>
+                <label asp-for="Count" class="control-label">Kolicina</label>
                 <input asp-for="Count" class="form-control" min="1"/>
                 <span asp-validation-for="Count" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Purchase" class="btn btn-primary" />
+                <input type="submit" value="Kupi" class="btn btn-primary" />
             </div>
         </form>
     </div>

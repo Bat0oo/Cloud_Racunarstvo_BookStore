@@ -1097,6 +1097,7 @@ C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Client\obj\Deb
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Client\obj\Debug\net7.0\win7-x64\Client.csproj.CoreCompileInputs.cache
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Client\obj\Debug\net7.0\win7-x64\Client.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Client\obj\Debug\net7.0\win7-x64\Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Client\obj\Debug\net7.0\win7-x64\Client.sourcelink.json
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Client\obj\Debug\net7.0\win7-x64\staticwebassets.build.json
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Client\obj\Debug\net7.0\win7-x64\staticwebassets.development.json
 C:\Users\Win10\source\repos\CIoud_Racunarstvo_BookStore\BookStore\Client\obj\Debug\net7.0\win7-x64\staticwebassets\msbuild.Client.Microsoft.AspNetCore.StaticWebAssets.props
