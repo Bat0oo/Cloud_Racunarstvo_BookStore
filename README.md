@@ -16,8 +16,8 @@ Service Communication — Inter-service communication patterns
 ## 🚀 Getting Started
 1. Clone the repository
 ```bash
-git clone https://github.com/Bat0oo/CIoud_Racunarstvo_BookStore.git
-cd CIoud_Racunarstvo_BookStore
+git clone https://github.com/Bat0oo/Cloud_Racunarstvo_BookStore.git
+cd Cloud_Racunarstvo_BookStore
 ```
 2. Set up Service Fabric development environment
 3. Configure database connection strings
